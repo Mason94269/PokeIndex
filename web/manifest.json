@@ -1,6 +1,6 @@
 {
-    "name": "my_poke_idex",
-    "short_name": "my_poke_idex",
+    "name": "my_poke_index",
+    "short_name": "my_poke_index",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

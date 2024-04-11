@@ -1,4 +1,4 @@
-package com.example.my_poke_idex
+package com.example.my_poke_index
 
 import io.flutter.embedding.android.FlutterActivity
 
