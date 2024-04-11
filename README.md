@@ -1,4 +1,4 @@
-# my_poke_idex
+# my_poke_index
 
 A new Flutter project.
 
